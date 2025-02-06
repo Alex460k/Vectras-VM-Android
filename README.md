@@ -40,7 +40,6 @@ You can download Vectras VM from the [releases](https://github.com/xoureldeen/Ve
 
 or
 
-
 [![OpenAPK](https://www.openapk.net/images/openapk-badge.png)](https://www.openapk.net/vectras-vm/com.vectras.vm/)
 
 
